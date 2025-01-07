@@ -55,7 +55,7 @@ img {
         padding: 0 15px;
     }
 }
-/* #region header */
+/* #region HEADER Adaptive disign */
 .header {
     border-bottom: 1px solid #e7e9fc;
     box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
@@ -210,7 +210,7 @@ img {
 }
 
 /* #endregion header */
-/* #region mobil */
+/* #region Mobile Version */
 .mobile-menu {
     position: fixed;
     top: 0;
@@ -371,7 +371,7 @@ img {
     }
 }
 /* #endregion mobil */
-/* #region hero */
+/* #region HERO Adaptive disign */
 .hero {
     max-width: 320px;
     height: 432px;
@@ -488,7 +488,7 @@ img {
     }
 }
 /* #endregion hero */
-/* #region features */
+/* #region BENEFITS Adaptive disign */
 .benefits {
     background-color: #ffffff;
     padding-top: 96px;
@@ -621,7 +621,7 @@ img {
     }
 }
 /* #endregion features */
-/* #region our */
+/* #region TEAM Adaptive disign */
 .team {
     background-color: #F4F4FD;
     padding-top: 96px;
@@ -760,7 +760,7 @@ img {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 /* #endregion our */
-/* #region portfolio */
+/* #region PORTFOLIO Adaptive disign */
 .portfolio {
     padding-top: 96px;
     padding-bottom: 96px;
@@ -892,7 +892,7 @@ img {
 }
 
 /* #endregion portfolio */
-/* #region footer */
+/* #region FOOTER Adaptive disign */
 .footer {
     background-color: #2e2f42;
     padding: 96px 0;
@@ -1105,7 +1105,7 @@ img {
 }
 
 /* #endregion footer */
-/* #region modal */
+/* #region BACKDROP Adaptive disign */
 .backdrop {
     position: fixed;
     left: 0;
