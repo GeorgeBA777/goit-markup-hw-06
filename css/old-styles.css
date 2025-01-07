@@ -1,5 +1,4 @@
-/* #region Base Setting */
-/* BASE SETTING */
+/* region BASE SETTING */
 body {
     font-family: "Roboto", sans-serif;
     color: rgb(67, 68, 85);
@@ -65,10 +64,9 @@ button {
     overflow: hidden;
     position: absolute;
 }
-
 /* #endregion */
+
 /* #region HEADER*/
-/* Header */
 .header {
     border-bottom: 1px solid #e7e9fc;
     box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 2px 1px 0 rgba(46, 47, 66, 0.08);
@@ -168,7 +166,7 @@ button {
 }
 
 /* #endregion */
-/* #region SECTION1 HERO */
+/* #region HERO */
 .hero {
     max-width: 1440px;
     margin: 0 auto;
@@ -222,8 +220,7 @@ button {
 }
 
 /* #endregion */
-/* #region SECTION2 BENEFITS */
-/* SECTION2 BENEFITS */
+/* #region BENEFITS */
 .benefits {
     padding: 60px 0;
     background-color: #f9f9fb;
@@ -279,7 +276,7 @@ button {
 }
 
 /* #endregion */
-/* #region SECTION3 TEAM */
+/* #region TEAM */
 .team {
     width: 100%;
     padding-top: 120px;
@@ -374,7 +371,7 @@ button {
 
 
 /* #endregion */
-/* #region SECTION4 PORTFOLIO */
+/* #region PORTFOLIO */
 .portfolio {
     padding-top: 120px;
     padding-bottom: 120px;
